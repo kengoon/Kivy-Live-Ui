@@ -1,0 +1,3 @@
+[submodule "KivyLive"]
+	path = KivyLive
+	url = https://github.com/kengoon/KivyLive
