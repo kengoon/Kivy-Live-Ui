@@ -7,3 +7,6 @@
 [submodule "KivyLiveServer"]
 	path = KivyLiveServer
 	url = https://github.com/kengoon/KivyLiveServer
+[submodule "bin"]
+    path = bin
+    url = https://github.com/kengoon/KivyLive/blob/957899b016f2b0a001c32eeee39a30f057224e6f/bin/kivylive-0.1-armeabi-v7a-debug.apk
