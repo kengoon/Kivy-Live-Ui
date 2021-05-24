@@ -1,3 +1,6 @@
 [submodule "KivyLive"]
 	path = KivyLive
 	url = https://github.com/kengoon/KivyLive
+[submodule "KivyLiveClient"]
+	path = KivyLiveClient
+	url = https://github.com/kengoon/KivyLiveClient
