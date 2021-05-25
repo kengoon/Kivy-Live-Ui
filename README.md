@@ -31,3 +31,7 @@ this makes the python codes not to be compiled because the **KivyLive** app need
 Download and install the apk, start the server(**KivyLiveServer**)(make sure watchdog is installed), connect the android phone the server by providing the `server ip` in the text field provided(in case you want to compile yours and add extra requirements, do not add `kaki` because I mad a few changes and bundled it with the app), finally start the **KivyLiveClient** and point it to the directory that you want to listen update from e.g `python3 main.py /home/test/my_project/`.
 
 During the 1st connection of the **Client Updater(*KivyLiveClient*)** the server will send it the latest update of the code and those codes will be stored in the same directory with the **Client Updater**
+
+![kivylive](https://user-images.githubusercontent.com/42192162/119441673-6b316580-bd1e-11eb-9958-2848b405e1ed.gif)
+![kivy live ui](https://user-images.githubusercontent.com/42192162/119441925-da0ebe80-bd1e-11eb-806f-1ffd9032fb2d.gif)
+
