@@ -32,6 +32,13 @@ Download and install the apk, start the server(**KivyLiveServer**)(make sure wat
 
 During the 1st connection of the **Client Updater(*KivyLiveClient*)** the server will send it the latest update of the code and those codes will be stored in the same directory with the **Client Updater**
 
+# Todo List
+___________________________________
+- [ ] create a class.json file that can be visible to CLASSES variable in main.py file
+- [ ] allow integration with personal project
+- [ ] allow shipping of compiled recipes or requirement (like ffmpeg) over the network
+- [ ] create a comprehensive tutorial on Kivy Live
+
 ![kivylive](https://user-images.githubusercontent.com/42192162/119441673-6b316580-bd1e-11eb-9958-2848b405e1ed.gif)
 ![kivy live ui](https://user-images.githubusercontent.com/42192162/119441925-da0ebe80-bd1e-11eb-806f-1ffd9032fb2d.gif)
 
