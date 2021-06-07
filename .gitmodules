@@ -1,9 +1,12 @@
 [submodule "KivyLive"]
 	path = KivyLive
 	url = https://github.com/kengoon/KivyLive
+	branch = master
 [submodule "KivyLiveClient"]
 	path = KivyLiveClient
 	url = https://github.com/kengoon/KivyLiveClient
+	branch = master
 [submodule "KivyLiveServer"]
 	path = KivyLiveServer
 	url = https://github.com/kengoon/KivyLiveServer
+	branch = master
